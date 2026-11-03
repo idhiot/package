@@ -9,4 +9,3 @@ pkg install wget
 pkg install zip
 pkg install unzip
 pkg install unrar
-pkg install 
